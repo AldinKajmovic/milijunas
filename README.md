@@ -16,7 +16,7 @@
 
 ## Pokretanje :
 
-    git clone https://github.com/vaš-repozitorijum/milijunas.git
+    git clone https://github.com/AldinKajmovic/milijunas.git
    
 Otvorite index.html u svom pretraživaču
 
