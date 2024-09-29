@@ -1,22 +1,21 @@
-# Ko želi biti Milioner ?
+# Who wants to be a Millionare ?
 
-## Funkcionalnosti
+## Funcionalities
 
-- **15 pitanja**: Igrač odgovara na 15 pitanja u toku igre.
-- **4 izbora**: Svako pitanje dolazi sa 4 ponuđena odgovora.
-- **Nasumična pitanja**: Pitanja su nasumično generisana iz 15 različitih setova pitanja, pri čemu svaki set sadrži 5 pitanja.
-- **Restart igre**: Ukoliko pogriješite neko pitanje, ispisati će vaš osvojeni novac i odvesti na početni meni gdje se može izabrati opcija nova igra ili uputstva
+- **15 questions**: Player answers to 15 questions during the game.
+- **4 choices**: Every question has 4 possible answers.
+- **Random questions**:  Questions are randomly selected from 15 different sets, each containing 5 questions, leading to a diverse question pool.
+- **Restart game**: If the player answers incorrectly, their total winnings are displayed, and they are taken back to the menu where they can choose to play a new game or view the instructions.
   
-
-## Tehnologije
+## Technologies
 
 - **HTML**
 - **CSS**
 - **JavaScript**
 
-## Pokretanje :
+## Installation :
 
     git clone https://github.com/AldinKajmovic/milijunas.git
    
-Otvorite index.html u svom pretraživaču
+Open index.html in your browser
 
